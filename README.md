@@ -1,7 +1,7 @@
 # agriculturaeficiente.sanmarcos.github.io
 Página web realizada para el simposio de redacción.
 
-**INTEGRANTES: **
+**INTEGRANTES:**
 - Castillejo Huancas Joseph Leonel (Especialista)
 - Chicata Serrato Sebastian Joaquin (Moderador)
 - Guevara Chavez Luis Rodrigo (Especialista)
